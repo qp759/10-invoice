@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">統一發票對獎器</string>
+    <string name="gender">請選擇月份</string>
+    <string name="suggestion">開始對獎</string>
+    <string name="radbtn_male">2018  1 , 2 月發票</string>
+    <string name="radbtn_female">2018  3 , 4 月發票</string>
+    <string name="radbtn_male_age1">2018  5 , 6 月發票</string>
+    <string name="radbtn_male_age2">2018  7 , 8 月發票</string>
+    <string name="radbtn_male_age3">2018  9 , 10月發票</string>
+    <string name="radbtn_male_age4">2018 11,12月發票</string>
+
+    <string name="M1_1">21735266</string>
+    <string name="M1_2">91874254</string>
+    <string name="M1_3">56065209</string>
+    <string name="M1_4">05739340</string>
+    <string name="M1_5">69001612</string>
+
+    <string name="M2_1">12342126</string>
+    <string name="M2_2">80740977</string>
+    <string name="M2_3">36822639</string>
+    <string name="M2_4">38786238</string>
+    <string name="M2_5">87204837</string>
+
+    <string name="M3_1">20048019</string>
+    <string name="M3_2">02142605</string>
+    <string name="M3_3">21240109 </string>
+    <string name="M3_4">78323535</string>
+    <string name="M3_5">18549847</string>
+
+    <string name="M4_1">73372972</string>
+    <string name="M4_2">22315462</string>
+    <string name="M4_3">91903003</string>
+    <string name="M4_4">16228722</string>
+    <string name="M4_5">03270598</string>
+
+    <string name="M5_1">96363025</string>
+    <string name="M5_2">69095110</string>
+    <string name="M5_3">96745865</string>
+    <string name="M5_4">98829035</string>
+    <string name="M5_5">45984442</string>
+
+    <string name="M6_1">88515559</string>
+    <string name="M6_2">47551146</string>
+    <string name="M6_3">83513656</string>
+    <string name="M6_4">85250862</string>
+    <string name="M6_5">61472404</string>
+</resources>
